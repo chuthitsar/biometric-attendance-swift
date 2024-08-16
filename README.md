@@ -30,8 +30,8 @@ A SwiftUI-based iOS application designed to manage employee attendance using bio
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/biometric-attendance-ios.git
-    cd biometric-attendance-ios
+    git clone https://github.com/chuthitsar/biometric-attendance-swift.git
+    cd biometric-attendance-swift
     ```
 
 2. Open the project in Xcode:
